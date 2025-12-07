@@ -1,6 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to Santosh for a fresh start!! Saidemy DevOps Student Registration Form!!</h1>
+    <h1>We are seeing this from Tomcat EIP:8080/webapps and only after .war file is moved tomcat server!!
+	    Saidemy DevOps Student Registration Form!!</h1>
     <p>Please fill in this form for registration!!</p>
     <hr>
     <br>  
